@@ -1,0 +1,14 @@
+nav ul{
+    text-align: right;
+    font-size: 30px;
+    display: inline;
+    text-align: right;
+    vertical-align: text-top;
+}
+nav li{
+    display: inline;
+    margin-left: 50px;
+}
+.imgheader {
+    display: inline;
+}
